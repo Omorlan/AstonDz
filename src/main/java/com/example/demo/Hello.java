@@ -10,6 +10,6 @@ public class Hello {
 
     @GetMapping
     public String hello() {
-        return "Heylgo";
+        return "not hey";
     }
 }
